@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
     Me chamo Eliseu da Silva da Cruz, tenho 24 anos, natural de Salvador/BA. Atualmente estou cursando Engenharia de Software na UCSal
-    e faço curso de Desenvolvimento Front-End pela EBAC. Sou apaixonado por tecnologia em expecífico pela área de desevolvimento web.
+    e faço curso de Desenvolvimento Front-End pela EBAC. Sou apaixonado por tecnologia, em específico pela área de desevolvimento web.
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/eliseu-cruz-726665254/">
