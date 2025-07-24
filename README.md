@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá! Eu sou o Eliseu da Silva da Cruz 👋
+Sou estudante do segundo semestre de Engenharia de Software e estou aprofundando meus conhecimentos em Engenharia Front-end pela EBAC. Minha paixão é o desenvolvimento web e estou sempre buscando aprender e criar soluções inovadoras.
 
-<!--
-**Eliseu-Cruz/Eliseu-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologias que estou me aprofundando
+Tenho focado meus estudos e projetos em:
 
-Here are some ideas to get you started:
+Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+
+SQL
+
+Conecte-se Comigo!
+Estou sempre aberto a novas conexões e oportunidades para colaborar em projetos. Sinta-se à vontade para me contatar ou explorar meus trabalhos:
+
+LinkedIn: Eliseu da Silva da Cruz
+
+Portfólio: Meu Portfólio Web
+
+Meu objetivo com este perfil é desenvolver e mostrar um pouco dos meus projetos, compartilhando minha jornada e aprendizados.
+
+
+
+
+
+
+
