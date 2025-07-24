@@ -4,11 +4,11 @@
 
     Me chamo Eliseu da Silva da Cruz, tenho 24 anos, natural de Salvador/BA. 
     
-    com especial interesse em desenvolvimento web.
-    
     Atualmente estou cursando Engenharia de Software na UCSal.
     
     E como complemento faço curso de Desenvolvimento Front-End pela EBAC.
+
+    Gosto muita da área de tecnologia, com especial interesse em desenvolvimento web.
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/eliseu-cruz-726665254/">
